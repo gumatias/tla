@@ -36,6 +36,7 @@
 
 #input-section input {
   float: right;
+  width: 200px;
 }
 
 .rangeslider,
